@@ -1,3 +1,5 @@
+# [こちら](https://github.com/aws-samples/aws-ml-jp/tree/main/inference/edge/greengrass-ml-inference)に移管しました。
+
 # greengrass-ml-inference
 * 本コンテンツは AWS IoT Greengrass(v2) 上で動く ML 推論アプリを開発、デプロイするハンズオンです。
 * EC2 を 4 台、それぞれ開発機、ステージング機、本番機 2 台をエッジデバイスとして扱います。
